@@ -1,3 +1,7 @@
 # Игнорирование директории
 /node_modules/*
 /bower_components/*
+/build/*
+
+# Игнорирование файлов
+/index.html
